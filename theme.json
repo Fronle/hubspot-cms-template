@@ -1,0 +1,14 @@
+{
+  "label": "Fronle Theme",
+  "preview_path": "./templates/home.html",
+  "screenshot_path": "./images/templates/homepage.jpg",
+  "enable_domain_stylesheets": false,
+  "version": "1.0",
+  "author": {
+    "name": "Fronle, LLC",
+    "email": "dev@fronle.com",
+    "url": "https://fronle.com.com/"
+  },
+  "documentation_url": "https://fronle.com",
+  "example_url": "https://fronle.com"
+}
